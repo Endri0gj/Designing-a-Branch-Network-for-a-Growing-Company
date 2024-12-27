@@ -1,0 +1,9 @@
+This project demonstrates the design of a branch network in Cisco Packet Tracer for a growing company based on the following requirements:
+
+A single router and switch (Cisco devices) were used.
+Created three departments: Admin/IT, Finance/HR, and Customer Service/Reception, each in separate VLANs.
+Configured wireless connectivity for all departments to allow user mobility.
+Implemented DHCP for automatic IPv4 address assignment to endpoint devices.
+Ensured inter-VLAN communication to enable collaboration across departments.
+Utilized the provided Class C network 192.168.1.0/24 for addressing.
+This design effectively supports the company's branch operations while adhering to scalability and efficiency needs.
